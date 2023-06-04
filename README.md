@@ -1,5 +1,3 @@
-![github_banner](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/48b60896-79dc-4cf4-830a-06bd392be442)
-
 # 🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical) ![CEHPRACTICAL](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/ab8dfdee-bb28-464f-ad24-45c0cdb23cb1)
 
 | OWASP Top 10 🚦| VAPT Tools🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️        
@@ -23,12 +21,8 @@ I am skilled in various cybersecurity domains, including:
 - 🐧 Linux: I possess in-depth knowledge of Linux systems, enabling me to secure and administer them effectively.
 - ☁️ AWS and Cloud Security : I have hands-on experience with Amazon Web Services, ensuring secure cloud deployments and infrastructure management.
 
-
 ## 🏆 Achievements
 - 🚀 TryHackMe Top 2% Globally: I have achieved recognition as one of the top performers on the TryHackMe platform. This accomplishment reflects my dedication to staying at the forefront of cybersecurity trends, techniques, and challenges.
 
 ## 📩 Contact Information
 Feel free to reach out to me using the contact information below. You can also explore my GitHub repositories to gain insights into my projects and contributions. Let's connect and collaborate to enhance the security of our digital world!
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vikaspatel-ln//)  
-
