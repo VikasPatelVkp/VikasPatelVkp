@@ -1,6 +1,6 @@
 ### Hi there 👋
 # VikasPatel
-![2](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/a5411ab0-f0f2-437b-b003-f0fd64171e49)
+![github_banner](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/48b60896-79dc-4cf4-830a-06bd392be442)
 
 # 🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical) Certified | OWASP Top 10 🚦| VAPT Tools🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️ 
 
