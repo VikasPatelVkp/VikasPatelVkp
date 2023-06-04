@@ -5,12 +5,10 @@
 <h2 id="typing-effect">🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical)</h2>
 
 <pre>
-  <code id="typing-text">
-  </code>
+  <code id="typing-text"></code>
 </pre>
 
 <script>
-  // Text to be typed
   const text = `👋 Welcome to my GitHub profile! Here's why you should connect with me:
   I am Vikas Patel
 
@@ -36,15 +34,16 @@
   ## 📩 Contact Information
   Feel free to reach out to me using the contact information below. You can also explore my GitHub repositories to gain insights into my projects and contributions. Let's connect and collaborate to enhance the security of our digital world!`;
 
-  // Function to simulate typing effect
-  function typeWriter(text, index, delay) {
+  let index = 0;
+  const delay = 30;
+
+  function typeWriter() {
     if (index < text.length) {
-      document.getElementById('typing-text').innerHTML += text.charAt(index);
+      document.getElementById("typing-text").innerHTML += text.charAt(index);
       index++;
-      setTimeout(() => typeWriter(text, index, delay), delay);
+      setTimeout(typeWriter, delay);
     }
   }
 
-  // Start typing animation
-  typeWriter(text, 0, 30);
+  typeWriter();
 </script>
