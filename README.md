@@ -1,10 +1,9 @@
 ![1 github_banner-removebg-preview](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/53eee208-608b-4c15-a1e0-6be658e7957d)
 ![github_banner](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/48b60896-79dc-4cf4-830a-06bd392be442)
 
-# 🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical) Certified 
+# 🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security 
+# CEH (Practical) Certified 
 | OWASP Top 10 🚦| VAPT Tools🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️        
-
-
 
 👋 Welcome to my GitHub profile! Here's why you should connect with me:
 
