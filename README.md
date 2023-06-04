@@ -2,18 +2,18 @@
    <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/c7b85f50-7d21-4c6c-8355-8f98e9c4628d"
 alt="CEHPRACTICAL" >
   <br>
-🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical)
+🔒 Cybersecurity Enthusiast |🎓M.Tech in Cyber Security |📃CEH (Practical)
 </h1>
 
-| OWASP Top 10 🚦 | VAPT Tools 🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️
+# | OWASP Top 10 🚦 | VAPT Tools 🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️
 
 👋 Welcome to my GitHub profile! Here's why you should connect with me:
-I am Vikas Patel
+I am **Vikas Patel**
 
 ## 🎓 Cybersecurity Learner
 I'm deeply passionate about the field of cybersecurity and constantly strive to expand my knowledge and skills. I am currently pursuing a Master's degree in Technology in Cyber Security, which equips me with a solid foundation to tackle complex security challenges.
 
-## 💼 Certified Ethical Hacker (Practical)
+## 📃 Certified Ethical Hacker (Practical)
 <h3 align="left">
   <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/ab8dfdee-bb28-464f-ad24-45c0cdb23cb1" alt="CEHPRACTICAL" width="150" height="150">
 </h3>
