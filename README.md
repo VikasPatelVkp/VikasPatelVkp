@@ -14,7 +14,7 @@ I'm deeply passionate about the field of cybersecurity and constantly strive to 
 
 ## 
 <h1>
- 💼 Certified Ethical Hacker (Practical) <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/ab8dfdee-bb28-464f-ad24-45c0cdb23cb1" alt="CEHPRACTICAL" width="100" height="100">
+ 💼 Certified Ethical Hacker (Practical) <h1 align = "right "> <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/ab8dfdee-bb28-464f-ad24-45c0cdb23cb1" alt="CEHPRACTICAL" width="100" height="100">
 
 </h1>
 I hold the prestigious certification from EC Council, validating my expertise in ethical hacking techniques and methodologies. This certification demonstrates my commitment to ethical and responsible cybersecurity practices.
