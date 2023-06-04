@@ -1,5 +1,5 @@
 <h1 align="center">
-  Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical)
+🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical)
 </h1>
 
 | OWASP Top 10 🚦 | VAPT Tools 🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️
