@@ -27,7 +27,6 @@ I am skilled in various cybersecurity domains, including:
 ## 📩 Contact Information
 Feel free to reach out to me using the contact information below. You can also explore my GitHub repositories to gain insights into my projects and contributions. Let's connect and collaborate to enhance the security of our digital world!
 
-✉️ Contact: [Your preferred contact information]
-🌐 Portfolio: [Your website or relevant links]
-📝 Blog: [Optional - Link to your cybersecurity blog, if applicable]
+Linkdin- 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vikaspatel-ln//)  
 
