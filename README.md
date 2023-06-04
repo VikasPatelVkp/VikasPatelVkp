@@ -1,5 +1,7 @@
-![github_banner-removebg-preview](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/1cf39165-e3a9-4703-b828-c8affa38fcbf)
+![github_banner-removebg-preview]()
 <h1 align="center">
+   <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/1cf39165-e3a9-4703-b828-c8affa38fcbf" alt="CEHPRACTICAL" width="200" height="200">
+  <br>
 🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical)
 </h1>
 
