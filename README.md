@@ -1,5 +1,6 @@
 <h1 align="center">
-   <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/1cf39165-e3a9-4703-b828-c8affa38fcbf" alt="CEHPRACTICAL" >
+   <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/c7b85f50-7d21-4c6c-8355-8f98e9c4628d"
+alt="CEHPRACTICAL" >
   <br>
 🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical)
 </h1>
