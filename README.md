@@ -2,31 +2,49 @@
   <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/ab8dfdee-bb28-464f-ad24-45c0cdb23cb1" alt="CEHPRACTICAL" width="200" height="200">
 </div>
 
-## 🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical)
+<h2 id="typing-effect">🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical)</h2>
 
-| OWASP Top 10 🚦 | VAPT Tools 🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️
+<pre>
+  <code id="typing-text">
+  </code>
+</pre>
 
-👋 Welcome to my GitHub profile! Here's why you should connect with me:
-I am Vikas Patel
+<script>
+  // Text to be typed
+  const text = `👋 Welcome to my GitHub profile! Here's why you should connect with me:
+  I am Vikas Patel
 
-## 🎓 Cybersecurity Learner
-I'm deeply passionate about the field of cybersecurity and constantly strive to expand my knowledge and skills. I am currently pursuing a Master's degree in Technology in Cyber Security, which equips me with a solid foundation to tackle complex security challenges.
+  ## 🎓 Cybersecurity Learner
+  I'm deeply passionate about the field of cybersecurity and constantly strive to expand my knowledge and skills. I am currently pursuing a Master's degree in Technology in Cyber Security, which equips me with a solid foundation to tackle complex security challenges.
 
-## 💼 Certified Ethical Hacker (Practical)
-I hold the prestigious certification from EC Council, validating my expertise in ethical hacking techniques and methodologies. This certification demonstrates my commitment to ethical and responsible cybersecurity practices.
+  ## 💼 Certified Ethical Hacker (Practical)
+  I hold the prestigious certification from EC Council, validating my expertise in ethical hacking techniques and methodologies. This certification demonstrates my commitment to ethical and responsible cybersecurity practices.
 
-## 💪 Diverse Skill Set
-I am skilled in various cybersecurity domains, including:
+  ## 💪 Diverse Skill Set
+  I am skilled in various cybersecurity domains, including:
 
-- 🕵️ Reconnaissance and Enumeration: I excel in identifying and gathering crucial information to assess potential vulnerabilities.
-- 🚦 OWASP Top 10: I am well-versed in the most critical web application security risks and adept at implementing mitigation strategies.
-- 🛡️ VAPT Tools: I am proficient in using industry-standard tools such as NMAP, BurpSuite, and other Vulnerability Assessment and Penetration Testing (VAPT) tools.
-- 🐍 Python: I leverage the power of Python scripting to automate security tasks and develop robust solutions.
-- 🐧 Linux: I possess in-depth knowledge of Linux systems, enabling me to secure and administer them effectively.
-- ☁️ AWS and Cloud Security: I have hands-on experience with Amazon Web Services, ensuring secure cloud deployments and infrastructure management.
+  - 🕵️ Reconnaissance and Enumeration: I excel in identifying and gathering crucial information to assess potential vulnerabilities.
+  - 🚦 OWASP Top 10: I am well-versed in the most critical web application security risks and adept at implementing mitigation strategies.
+  - 🛡️ VAPT Tools: I am proficient in using industry-standard tools such as NMAP, BurpSuite, and other Vulnerability Assessment and Penetration Testing (VAPT) tools.
+  - 🐍 Python: I leverage the power of Python scripting to automate security tasks and develop robust solutions.
+  - 🐧 Linux: I possess in-depth knowledge of Linux systems, enabling me to secure and administer them effectively.
+  - ☁️ AWS and Cloud Security: I have hands-on experience with Amazon Web Services, ensuring secure cloud deployments and infrastructure management.
 
-## 🏆 Achievements
-- 🚀 TryHackMe Top 2% Globally: I have achieved recognition as one of the top performers on the TryHackMe platform. This accomplishment reflects my dedication to staying at the forefront of cybersecurity trends, techniques, and challenges.
+  ## 🏆 Achievements
+  - 🚀 TryHackMe Top 2% Globally: I have achieved recognition as one of the top performers on the TryHackMe platform. This accomplishment reflects my dedication to staying at the forefront of cybersecurity trends, techniques, and challenges.
 
-## 📩 Contact Information
-Feel free to reach out to me using the contact information below. You can also explore my GitHub repositories to gain insights into my projects and contributions. Let's connect and collaborate to enhance the security of our digital world!
+  ## 📩 Contact Information
+  Feel free to reach out to me using the contact information below. You can also explore my GitHub repositories to gain insights into my projects and contributions. Let's connect and collaborate to enhance the security of our digital world!`;
+
+  // Function to simulate typing effect
+  function typeWriter(text, index, delay) {
+    if (index < text.length) {
+      document.getElementById('typing-text').innerHTML += text.charAt(index);
+      index++;
+      setTimeout(() => typeWriter(text, index, delay), delay);
+    }
+  }
+
+  // Start typing animation
+  typeWriter(text, 0, 30);
+</script>
