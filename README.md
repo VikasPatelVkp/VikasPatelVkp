@@ -1,5 +1,6 @@
 ### Hi there 👋
 # VikasPatel
+![Linkedin Banner](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/3f9d4149-5c27-4e2f-9e18-7d4e00c36ee8)
 # 🔒 Cybersecurity Enthusiast | M.Tech in Cyber Security | CEH (Practical) Certified | OWASP Top 10 🚦| VAPT Tools🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️ 
 
 👋 Welcome to my GitHub profile! Here's why you should connect with me:
@@ -27,6 +28,5 @@ I am skilled in various cybersecurity domains, including:
 ## 📩 Contact Information
 Feel free to reach out to me using the contact information below. You can also explore my GitHub repositories to gain insights into my projects and contributions. Let's connect and collaborate to enhance the security of our digital world!
 
-Linkdin- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vikaspatel-ln//)  
 
