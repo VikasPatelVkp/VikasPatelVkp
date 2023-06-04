@@ -13,9 +13,9 @@ I am Vikas Patel
 I'm deeply passionate about the field of cybersecurity and constantly strive to expand my knowledge and skills. I am currently pursuing a Master's degree in Technology in Cyber Security, which equips me with a solid foundation to tackle complex security challenges.
 
 ## 💼 Certified Ethical Hacker (Practical)
-<p align="left">
-  <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/ab8dfdee-bb28-464f-ad24-45c0cdb23cb1" alt="CEHPRACTICAL" width="100" height="100">
-</p>
+<h3 align="left">
+  <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/ab8dfdee-bb28-464f-ad24-45c0cdb23cb1" alt="CEHPRACTICAL" width="200" height="200">
+</h3>
 I hold the prestigious certification from EC Council, validating my expertise in ethical hacking techniques and methodologies. This certification demonstrates my commitment to ethical and responsible cybersecurity practices.
 
 ## 💪 Diverse Skill Set
