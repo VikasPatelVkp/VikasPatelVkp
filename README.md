@@ -4,7 +4,7 @@
 🔒 Cybersecurity Enthusiast |🎓M.Tech in Cyber Security
 </h1>
 
-## | OWASP Top 10 🚦| VAPT Tools 🛡️ | Python 🐍 | Linux 🐧| AWS ☁️ |
+## | OWASP Top 10 🚦| VAPT Tools 🛡️ | Python 🐍 | Linux 🐧| AWS ☁️|
 
 ## myself "VIKAS PATEL"                                                                                     
 
