@@ -27,7 +27,7 @@ I am skilled in various cybersecurity domains, including:
 - 🕵️ **Reconnaissance and Enumeration:** I excel in identifying and gathering crucial information to assess potential vulnerabilities.
 - 🚦 **OWASP Top 10:** I am well-versed in the most critical web application security risks and adept at implementing mitigation strategies.
 - 🛡️ **VAPT Tools:** I am proficient in using industry-standard tools such as NMAP, BurpSuite, and other Vulnerability Assessment and Penetration Testing (VAPT) tools.
-- 🐍 **Pthon:** leverage the power of Python scripting to automate security tasks and develop robust solutions.
+- 🐍 **Pthon:** Leverage the power of Python scripting to automate security tasks and develop robust solutions.
 - 🐧 **Lnux:** I possess in-depth knowledge of Linux systems, enabling me to secure and administer them effectively.
 - ☁️ **AWS and Cloud Security:** Have hands-on experience with Amazon Web Services, ensuring secure cloud deployments and infrastructure management.
 
