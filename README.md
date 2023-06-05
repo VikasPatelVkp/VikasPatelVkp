@@ -9,7 +9,7 @@ alt="CEHPRACTICAL" >
 
 👋 Welcome to my GitHub profile! Here's why you should connect with me:
 
-I am **Vikas Patel**
+#I am **Vikas Patel**
 
 ## 🎓 Cybersecurity Learner
 I'm deeply passionate about the field of cybersecurity and constantly strive to expand my knowledge and skills. I am currently pursuing a Master's degree in Technology in Cyber Security, which equips me with a solid foundation to tackle complex security challenges.
