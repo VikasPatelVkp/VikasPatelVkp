@@ -25,11 +25,11 @@ I hold the prestigious certification from EC Council, validating my expertise in
 I am skilled in various cybersecurity domains, including:
 
 - 🕵️ **Reconnaissance and Enumeration:** I excel in identifying and gathering crucial information to assess potential vulnerabilities.
-- 🚦 **OWASP Top 10:** am well-versed in the most critical web application security risks and adept at implementing mitigation strategies.
-- 🛡️ **VAPT Tools:** am proficient in using industry-standard tools such as NMAP, BurpSuite, and other Vulnerability Assessment and Penetration Testing (VAPT) tools.
+- 🚦 **OWASP Top 10:** I am well-versed in the most critical web application security risks and adept at implementing mitigation strategies.
+- 🛡️ **VAPT Tools:** I am proficient in using industry-standard tools such as NMAP, BurpSuite, and other Vulnerability Assessment and Penetration Testing (VAPT) tools.
 - 🐍 **Pthon:** leverage the power of Python scripting to automate security tasks and develop robust solutions.
-- 🐧 **Lnux:** possess in-depth knowledge of Linux systems, enabling me to secure and administer them effectively.
-- ☁️ **AWS and Cloud Security:** ave hands-on experience with Amazon Web Services, ensuring secure cloud deployments and infrastructure management.
+- 🐧 **Lnux:** I possess in-depth knowledge of Linux systems, enabling me to secure and administer them effectively.
+- ☁️ **AWS and Cloud Security:** Have hands-on experience with Amazon Web Services, ensuring secure cloud deployments and infrastructure management.
 
 ## 🏆 Achievements
 - 🚀 **TryHackMe  Top 2% Globally:** ave achieved recognition as one of the top performers on the TryHackMe platform. This accomplishment reflects my dedication to staying at the forefront of cybersecurity trends, techniques, and challenges.
