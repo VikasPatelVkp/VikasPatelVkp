@@ -8,6 +8,7 @@ alt="CEHPRACTICAL" >
 # | OWASP Top 10 🚦 | VAPT Tools 🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️ |
 
 👋 Welcome to my GitHub profile! Here's why you should connect with me:
+
 I am **Vikas Patel**
 
 ## 🎓 Cybersecurity Learner
