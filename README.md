@@ -1,8 +1,6 @@
+ [github_banner](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/a393ed67-532b-49e1-8e44-46d6533d2661
 <h1 align="center">
-   <img src="https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/c7b85f50-7d21-4c6c-8355-8f98e9c4628d"![github_banner](https://github.com/VikasPatelVkp/VikasPatelVkp/assets/54985292/a393ed67-532b-49e1-8e44-46d6533d2661)
-
-alt="CEHPRACTICAL" >
-  <br>
+ <br>
 🔒 Cybersecurity Enthusiast |🎓M.Tech in Cyber Security
 </h1>
 
