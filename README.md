@@ -9,7 +9,7 @@ alt="CEHPRACTICAL" >
 
 👋 Welcome to my GitHub profile! 
 
-<span style="font-size:small">**Myself**</span> <span style="font-size:larger; font-weight:bold;"> ## **Vikas Patel**</span>
+Myself **Vikas Patel**
 
 
 Here's why you should connect with me:
