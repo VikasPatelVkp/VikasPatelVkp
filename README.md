@@ -7,8 +7,7 @@ alt="CEHPRACTICAL" >
 
 # | OWASP Top 10 🚦 | VAPT Tools 🛡️ | Python 🐍 | Linux 🐧 | AWS ☁️ |
 
-👋 Welcome to my GitHub profile! 
-<h1>I am Vikas Patel </h1> Here's why you should connect with me:
+👋 Welcome to my GitHub profile! <h1>I am Vikas Patel </h1> Here's why you should connect with me:
 
 ## 🎓 Cybersecurity Learner
 I'm deeply passionate about the field of cybersecurity and constantly strive to expand my knowledge and skills. I am currently pursuing a Master's degree in Technology in Cyber Security, which equips me with a solid foundation to tackle complex security challenges.
