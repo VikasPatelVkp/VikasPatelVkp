@@ -24,15 +24,15 @@ I hold the prestigious certification from EC Council, validating my expertise in
 ## 💪 Diverse Skill Set
 I am skilled in various cybersecurity domains, including:
 
-- 🕵️ Reconnaissance and Enumeration: I excel in identifying and gathering crucial information to assess potential vulnerabilities.
-- 🚦 OWASP Top 10: I am well-versed in the most critical web application security risks and adept at implementing mitigation strategies.
-- 🛡️ VAPT Tools: I am proficient in using industry-standard tools such as NMAP, BurpSuite, and other Vulnerability Assessment and Penetration Testing (VAPT) tools.
-- 🐍 Python: I leverage the power of Python scripting to automate security tasks and develop robust solutions.
-- 🐧 Linux: I possess in-depth knowledge of Linux systems, enabling me to secure and administer them effectively.
-- ☁️ AWS and Cloud Security: I have hands-on experience with Amazon Web Services, ensuring secure cloud deployments and infrastructure management.
+- 🕵️ **Reconnaissance and Enumeration: ** I excel in identifying and gathering crucial information to assess potential vulnerabilities.
+- 🚦 **OWASP Top 10:** am well-versed in the most critical web application security risks and adept at implementing mitigation strategies.
+- 🛡️ **PT Tools:** am proficient in using industry-standard tools such as NMAP, BurpSuite, and other Vulnerability Assessment and Penetration Testing (VAPT) tools.
+- 🐍 **thon:** leverage the power of Python scripting to automate security tasks and develop robust solutions.
+- 🐧 **nux:** possess in-depth knowledge of Linux systems, enabling me to secure and administer them effectively.
+- ☁️ **S and Cloud Security:** ave hands-on experience with Amazon Web Services, ensuring secure cloud deployments and infrastructure management.
 
 ## 🏆 Achievements
-- 🚀 TryHackMe Top 2% Globally: I have achieved recognition as one of the top performers on the TryHackMe platform. This accomplishment reflects my dedication to staying at the forefront of cybersecurity trends, techniques, and challenges.
+- 🚀 **TryHackMe  Top 2% Globally: ** ave achieved recognition as one of the top performers on the TryHackMe platform. This accomplishment reflects my dedication to staying at the forefront of cybersecurity trends, techniques, and challenges.
 
 ## 📩 Contact Information
 Feel free to reach out to me using the contact information below. You can also explore my GitHub repositories to gain insights into my projects and contributions. Let's connect and collaborate to enhance the security of our digital world!
