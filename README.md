@@ -9,7 +9,6 @@ alt="CEHPRACTICAL" >
 
 👋 Welcome to my GitHub profile! 
 # I am **Vikas Patel**
-
 Here's why you should connect with me:
 
 ## 🎓 Cybersecurity Learner
