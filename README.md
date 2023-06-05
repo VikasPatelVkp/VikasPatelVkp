@@ -9,7 +9,7 @@ alt="CEHPRACTICAL" >
 
 "-----------------------------------------------------------"
 
-#Myself **Vikas Patel**
+# Myself **Vikas Patel**
 
 "-----------------------------------------------------------"
 👋 Welcome to my GitHub profile! 
